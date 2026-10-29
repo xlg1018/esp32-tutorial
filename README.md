@@ -1,5 +1,7 @@
 # ESP32 零基础入门教程
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 > 从点亮一颗 LED，到做出能联网的手机可控气象站。
 >
 > 12 章 · 18 段完整代码 · 12 次小考 · 1 次大考 · 86 页 · 配套硬件约 66 元
